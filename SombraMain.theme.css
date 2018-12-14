@@ -1,0 +1,89 @@
+/* Background Tings */
+.container-2lgZY8, .da-layer, .da-standardSidebarView, .container-PNkimc, .container-2Thooq, .da-layers { background: transparent !important; }
+.da-appMount { background: center/cover no-repeat var(--BackgroundImage); }
+.da-app,.app { padding: 15px 15px 15px 15px; }
+.da-app,.app { background: transparent; }
+.da-typeWindows { height: 22px; margin: 0; }
+.da-winButton { height:22px; top:0; }
+.da-contentRegion { background-color: rgba(32, 34, 37,.3) !important; }
+.contentRegion-3nDuYy { background-color: rgba(32, 34, 37,.3) !important; overflow: hidden; }
+.da-chat, .content-yTz4x3, .da-guildsWrapper { background-color: rgba(32, 34, 37,.55) !important; }
+.da-sidebarRegion, .da-channels { background-color: rgba(32, 34, 37,.8) !important; margin-right: 20px !important; }
+.da-chat form, .da-messagesWrapper, .content-yTz4x3 { background: transparent !important; }
+.da-notice { background-color: rgba(32, 34, 37,.55) !important; }
+
+/* Rounding Things */
+.contentRegion-3nDuYy, .da-scrollerWrap.da-firefoxFixScrollFlex.da-scrollerWrap.da-firefoxFixScrollFlex.da-contentRegionScrollerWrap  { border-radius: 10px !important; background-color: rgba(32, 34, 37,.65) !important; }
+.da-chat, .da-chat form, .da-layers, .da-contentRegion, .da-layer, .da-standardSidebarView, .da-channels, .da-sidebarRegion { border-radius: 10px !important; }
+.container-2Rl01u, .da-header { border-radius: 0 10px 0 0; }
+.container-PNkimc { border-radius: 0 10px 10px 10px; }
+.da-headerBar { border-radius: 10px 10px 0 0; }
+.da-notice { border-radius: 8px !important; margin-bottom: 5px; }
+.da-videoHeight, .da-video { border-radius: 10px 10px 0 0 !important; }
+.da-guildsWrapper { border-radius: 10px; margin-right: 3px; }
+
+/* Members Panel */
+.da-members { background-color: rgba(32, 34, 37,.2) !important; margin-left: 0; }
+.da-status.da-small { position: relative; bottom: 40%; left: 60%; }
+.da-image.da-image.da-small { border-radius: 5px !important; -webkit-mask: none; }
+
+/* Chat Input Field */
+.da-channelTextArea .da-inner, .da-channelTextArea .da-innerNoAutocomplete { background-color: rgba(255, 255, 255,.45) !important; box-shadow: 1px 1px 5px 0.5px #1c1c1c; }
+.da-spriteNormal, .da-emojiButtonNormal { opacity: 1 !important; }
+.da-attachButton { background-color: rgba(54, 57, 63,.12) !important; }
+.da-attachButtonInner svg path { fill: rgba(54, 57, 63,1) !important; }
+::-webkit-input-placeholder { color: rgba(54, 57, 63,.5) !important; }
+.da-textArea { -webkit-text-stroke: 0.5px rgba(0,0,0,.5); color: rgba(54, 57, 63,1) !important; }
+
+/* Messages */
+.da-typing { background-color: transparent !important; }
+.da-containerCozyBounded { background-color: rgba(0, 0, 0,.5) !important; box-shadow: 1px 1px 5px 0.5px #1c1c1c; border-radius: 8px; margin: 10px; padding: 10px; }
+.da-contentCozy { position: relative; right: 28px; }
+.da-markup { color: rgba(255, 255, 255,.8) !important; }
+.da-messageCozy .da-status { height: 15px; width: 15px; }
+.da-username { display: inline; -webkit-text-stroke: 2px rgba(0,0,0,.2); }
+.da-headerCozy .da-avatar { margin: 0px; display: inline; border-radius: 5px !important; height: 40px; width: 50px !important; position: relative; top: 2px;}
+.da-avatar .da-image.da-image.da-large { border-radius: 5px !important; height: 40px; width: 40px; }
+.da-dividerContent { color: rgba(255, 255, 255,.6) !important; }
+.da-dividerContent:before, .da-dividerContent:after{ border-color: rgba(255, 255, 255,.4) !important; }
+
+/* Channels Tings */
+.da-channels .da-avatar { border-radius: 5px !important; -webkit-mask: none; }
+.da-avatarSpeaking { border-radius: 5px !important; -webkit-mask: none; }
+.da-avatarDefault { border-radius: 5px !important; -webkit-mask: none; }
+
+/* Profile (Full) */
+.da-maskProfile { border-radius: 5px !important; -webkit-mask: none; }
+.da-topSectionNormal, .da-topSectionPlaying, .da-topSectionSpotify, .da-topSectionStreaming { background-color: rgba(32, 34, 37, .55) !important; }
+.da-topSectionPlaying .da-bodyAlignCenter, .da-topSectionPlaying .da-bodyNormal, .da-topSectionSpotify .da-bodyNormal, .da-topSectionStreaming .da-bodyNormal { padding-top: 18px; padding-left: 10px; background-color: rgba(255, 255, 255, .1) !important; box-shadow: 1px 1px 5px 1px #1c1c1c; border-radius: 10px !important; }
+.da-topSectionPlaying .da-contentGameImageProfile, .da-topSectionPlaying .da-contentImagesProfile, .da-topSectionSpotify .da-contentImagesProfile, .da-topSectionStreaming .da-content { text-align: left; }
+.da-topSectionSpotify .da-listeningActionsProfile, .da-topSectionStreaming .da-actionsProfile { margin-right: 10px; }
+.da-inner .da-body { background-color: rgba(32, 34, 37, .55); text-align: center; padding-bottom: 18px; }
+.da-userInfoSection { width: 564px; display: inline-table; background-color: rgba(255, 255, 255, .1) !important; box-shadow: 1px 1px 5px 1px #1c1c1c; border-radius: 10px !important; margin-top: 15px; margin-right: 1px; margin-left: 15px; padding: 0px;}
+.da-connectedAccounts { margin: auto; }
+.da-connectedAccount { box-shadow: 1px 1px 5px 0.5px #1c1c1c; margin: 9px; }
+.da-userInfoSectionHeader { margin-top: 10px; margin-left: 13px; }
+.da-inner .da-body .da-note .da-scrollbar { -webkit-text-stroke: 0.5px rgba(0,0,0,.5); color: rgba(54, 57, 63,1); width: 550px; background-color: rgba(255, 255, 255, .35) !important; border-radius: 5px; }
+.da-body .da-userInfoSection:first-child { padding-bottom: 10px; }
+.da-body .da-listScroller { padding-top: 15px; padding-bottom: 14px; margin-left: auto; margin-right: auto; flex: 0.94; overflow-y: scroll; background-color: rgba(255, 255, 255, .1) !important; box-shadow: 1px 1px 5px 1px #1c1c1c; border-radius: 10px !important; }
+.da-body .da-listScroller .da-image, .da-body .da-listScroller .da-icon { box-shadow: 2px 2px 10px 1px #1c1c1c; border-radius: 10px !important; -webkit-mask: none; }
+
+/* Voice & Video Calls */
+.da-videoWrapper .da-iconsWrapper { box-shadow: 1px 1px 5px 1px #1c1c1c; border-radius: 5px !important; }
+.da-videoWrapper .da-videoBottom { position: relative; bottom: 5%; }
+
+/* Title Bar */
+.da-topic, .da-membersGroup { color: rgba(255, 255, 255,.6) !important; }
+.da-headerBar { background-color: rgba(32, 34, 37,.55) !important; }
+.da-channelName { color: rgba(255, 255, 255,.6) !important; }
+.da-icon path {fill: rgba(255, 255, 255,.65);}
+svg[name="Pin"] path[d="M1 1h24v24H1"] { fill: none; }
+svg[name=Update] path[d="M1 1h24v24H1V1z"] { fill: none; }
+.search .search-bar { background-color: rgba(77, 77, 77,.45) !important; }
+.search .DraftEditor-root .public-DraftEditorPlaceholder-root { color: hsla(0, 100%, 100%, 0.75) !important; }
+
+/* Misc Tings */
+.da-description { color: rgba(255, 255, 255,.55) !important; }
+.search-bar-inner { background-color: rgba(255, 255, 255,.45) !important; }
+.da-status.da-small.status { position: relative; right: 40%; top: 60%; }
+.da-typing.da-typing.da-animate.da-animate.status { position: relative; right: 25% !important; top:-45% !important; width: 25px !important; height: 10px !important; }
